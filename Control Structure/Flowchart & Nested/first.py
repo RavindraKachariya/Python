@@ -12,5 +12,3 @@ else:
         print("b is max...")
     else:
         print("c is max...")
-
-        
